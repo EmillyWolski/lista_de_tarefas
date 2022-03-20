@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Atividade com Jquery</title>
+    <link href="estilos.css" rel="stylesheet">
+    <script src="jquery-3.2.0.min.js"></script>
+    <script src="funcoes.js"></script>
+</head>
+<body>
+    <div class="container">
+        <h1>Insira uma nova tarefa</h1>
+
+        <div class="naoConcluidas">
+            <form id="list-form">
+                <input id="item" type="text" placeholder="Digite algo...">
+            </form>
+            <h2>Tarefas não concluídas</h2>
+            <ul id="list"></ul>
+        </div>
+
+        <div class="tarefasConcluidas">
+            <h2>Tarefas concluídas</h2>
+        </div>
+        <ul id="list-done"></ul>
+    </div>
+</body>
+</html>
