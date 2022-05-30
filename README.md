@@ -2,7 +2,7 @@
 Com o objetivo de desenvolver algo que incentivasse a busca por novos conhecimentos, essa lista trouxe desafios relacionados principalmente a Javascript e a biblioteca Jquery. Com cada vez mais prática, os resultados serão melhores!
 
 ## Descrição
-Ao inserir uma nova atividade na lista, ela é adicionada as "Tarefas não concluídas". Ao clicar em determinada atividade, ela será direcionada as "Tarefas concluídas".
+Ao inserir uma nova atividade na lista, ela é adicionada as "Tarefas não concluídas". Ao clicar em determinada atividade, ela será direcionada para as "Tarefas concluídas".
 
 ## Tecnologias utilizadas
 <div style="display: inline_block">
